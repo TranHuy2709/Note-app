@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_padding">16dp</dimen>
+
+    <dimen name="item_note_margin_top">8dp</dimen>
+    <dimen name="item_note_short_margin_top">4dp</dimen>
+    <dimen name="item_note_title_text_size">18sp</dimen>
+    <dimen name="item_note_time_text_size">12sp</dimen>
+    <dimen name="item_note_content_text_size">14sp</dimen>
+
+
+
+
+</resources>

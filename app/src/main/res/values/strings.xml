@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Note App</string>
+
+    <string name="main_all_note">Tất cả ghi chú</string>
+    <string name="main_all_note_empty">Bạn chưa có ghi chú nào</string>
+    <string name="main_search_hint">Tìm kiếm</string>
+    <string name="main_number_note_selected_pattern">Đã chọn %s ghi chú</string>
+
+    <string name="loading_default_description">Xin vui lòng đợi trong giây lát</string>
+
+    <string name="add_note_title_hint">Tiêu đề</string>
+    <string name="add_note_title_content">Nội dung ghi chú</string>
+    <string name="add_note_new_title">Tạo mới ghi chú</string>
+    <string name="add_note_update_title">Chỉnh sửa ghi chú</string>
+    <string name="add_note_empty_note_warning">Vui lòng nhập thông tin ghi chú</string>
+    <string name="add_note_update_success">Cập nhật ghi chú thành công</string>
+    <string name="add_note_insert_success">Tạo mới ghi chú thành công</string>
+</resources>
